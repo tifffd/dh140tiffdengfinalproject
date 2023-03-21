@@ -1,0 +1,15 @@
+pandas
+requests
+matplotlib.pyplot
+nltk
+string 
+punctuation
+re
+numpy
+networkx
+seaborn
+vader
+SentimentIntensityAnalyzer
+word_tokenize
+stopwords
+PorterStemmer

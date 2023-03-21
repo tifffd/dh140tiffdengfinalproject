@@ -1,6 +1,6 @@
 pandas
 requests
-matplotlib.pyplot
+matplotlib
 nltk
 string 
 punctuation

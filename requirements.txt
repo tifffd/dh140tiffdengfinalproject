@@ -1,0 +1,7 @@
+pandas
+requests
+matplotlib
+nltk
+numpy
+networkx
+seaborn

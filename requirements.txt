@@ -2,7 +2,6 @@ pandas
 requests
 matplotlib
 nltk
-string 
 punctuation
 re
 numpy

@@ -2,7 +2,6 @@ pandas
 requests
 matplotlib
 nltk
-punctuation
 re
 numpy
 networkx
